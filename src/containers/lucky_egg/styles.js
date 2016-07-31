@@ -8,10 +8,6 @@ const styles = {
 		justifyContent: 'center',
 		alignItems: 'center',
 		backgroundColor: '#FFF',
-	},
-	tab: {
-		borderColor: '#000',
-		borderWidth: 2
 	}
 };
 
